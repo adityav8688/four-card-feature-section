@@ -107,3 +107,11 @@ h2{
         flex-direction: column;
     }
 }
+@media (max-width: 375px){
+    .first-h1{
+        font-size: 1.75rem;
+    }
+    .second-h1{
+        font-size: 1.75rem;
+    }
+}
